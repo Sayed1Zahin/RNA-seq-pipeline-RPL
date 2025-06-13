@@ -104,7 +104,3 @@ If you use this pipeline or adapt it for your project, please cite this reposito
 
 For questions or collaboration, feel free to contact:
 **Sayed Zahin** — [LinkedIn](https://www.linkedin.com/in/sayed-zahin/) | [GitHub](https://github.com/Sayed1Zahin)
-
----
-
-Let me know if you'd like to include sections for a sample dataset, `renv` environment support, or example plots directly embedded in the README.
